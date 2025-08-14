@@ -1,7 +1,8 @@
 # Multi-Modal Garbage Classification ♻️
 
 A deep learning system that classifies garbage into Green, Blue, Black, or Other bins using both images and text descriptions. Built with EfficientNetV2-S for vision, DistilBERT for language, and trained on HPC (Compute Canada).
-Note that both Jupiter notebook and .py files are provided here. Use .py for training on HPC. 
+Note that both [Jupiter notebook](https://github.com/alikauc/Multimodal-Garbage-Classification/blob/main/MultimodalGarbageClassifier%20(1).ipynb) and [.py](https://github.com/alikauc/Multimodal-Garbage-Classification/blob/main/gclasswithtxmg.py) files are provided here. Use .py for training on HPC. 
+
 ## 📌 Overview
 Proper waste classification supports recycling, reduces landfill usage, and advances environmental sustainability. This project combines computer vision and natural language processing to improve classification accuracy.  
 * Image branch → Extracts features from object photos.  
